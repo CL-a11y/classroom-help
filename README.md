@@ -39,7 +39,7 @@
 
 
 
-## 6.邀请老师和ta
+## 6.邀请老师和TA
 
 ![img](https://github.com/CL-a11y/classroom-help/raw/main/invite1.png)
 

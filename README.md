@@ -49,4 +49,4 @@
 
 **需要将管理者权限设置为owner**
 
-![img](https://github.com/CL-a11y/classroom-help/raw/main/invite3.png)
+![img](https://github.com/CL-a11y/classroom-help/raw/main/invite4.png)

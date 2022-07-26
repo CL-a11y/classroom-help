@@ -2,6 +2,8 @@
 
 ## 1. 创建组织
 <div style="text-align: center"><img src="https://github.com/CL-a11y/classroom-help/raw/main/1.jpg" alt="shortcut" width="200"/></div>
+
+![img](https://github.com/CL-a11y/classroom-help/raw/main/1.jpg)
 <div style="text-align: center"><img src="https://github.com/CL-a11y/classroom-help/raw/main/2.jpg" alt="shortcut" width="200"/></div>
 <div style="text-align: center"><img src="https://github.com/CL-a11y/classroom-help/raw/main/3.jpg" alt="shortcut" width="200"/></div>
 <div style="text-align: center"><img src="https://github.com/CL-a11y/classroom-help/raw/main/4.jpg" alt="shortcut" width="200"/></div>

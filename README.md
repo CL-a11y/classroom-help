@@ -1,52 +1,29 @@
-# classroom-help
+# 部署帮助文档
 
+## 一、相关仓库
+[基准仓库](https://github.com/CL-a11y/uCore-x86-32-base-v2)
 
-## 1. 创建组织
-![img](https://github.com/CL-a11y/classroom-help/raw/main/1.jpg)
-![img](https://github.com/CL-a11y/classroom-help/raw/main/2.jpg)
-![img](https://github.com/CL-a11y/classroom-help/raw/main/3.jpg)
-![img](https://github.com/CL-a11y/classroom-help/raw/main/4.jpg)
-![img](https://github.com/CL-a11y/classroom-help/raw/main/5.jpg)
-## 2.[进入githubclassroom网站](https://classroom.github.com/)
+[文档仓库](https://github.com/CL-a11y/uCore-x86-32-doc)
 
-![img](https://github.com/CL-a11y/classroom-help/raw/main/6.jpg)
+[实验参考答案仓库](https://github.com/LearningOS/uCore-x86-32-answer)
 
-**创建classroom**
+[自动测试脚本仓库](https://github.com/CL-a11y/uCore-x86-32-test)
 
-![img](https://github.com/CL-a11y/classroom-help/raw/main/7.jpg)
+[codespace开发环境配置脚本仓库](https://github.com/CL-a11y/uCore-x86-32-conf)
 
-**选择教室对应的organization**
+## 二、github classroom部署说明
 
-![img](https://github.com/CL-a11y/classroom-help/raw/main/8.jpg)
+[github classroom部署说明](https://github.com/CL-a11y/classroom-help/raw/main/classroom.md)
 
-**创建完成**
+## 三、说明
 
-![img](https://github.com/CL-a11y/classroom-help/raw/main/9.jpg)
+在基准仓库中执行自动测试和环境配置需要从自动测试脚本仓库和codespace开发环境配置脚本仓库中拉取.
 
-## 3.发布作业
-![img](https://github.com/CL-a11y/classroom-help/raw/main/10.jpg)
-![img](https://github.com/CL-a11y/classroom-help/raw/main/11.jpg)
-![img](https://github.com/CL-a11y/classroom-help/raw/main/12.jpg)
+基准仓库中lab1实验在lab1分支下,以此类推.
 
+自动测试脚本位于[uCore-x86-32-test](https://github.com/CL-a11y/uCore-x86-32-test)仓库中. 测试脚本命名为lab1.sh(lab1为例)
 
-## 4.选择模板仓库,输入你的用户名之后会有补全
+统计分析页面生成,参考[https://github.com/os2edu/classroom-grading-template](https://github.com/os2edu/classroom-grading-template)仓库下的README.md文档.
 
-![img](https://github.com/CL-a11y/classroom-help/raw/main/13.jpg)
+[在线文档访问入口](https://ucore-x86-classroom-test.github.io/doc_test/)
 
-
-## 5.获取作业邀请链接
-![img](https://github.com/CL-a11y/classroom-help/raw/main/14.jpg)
-
-
-
-## 6.邀请老师和TA
-
-![img](https://github.com/CL-a11y/classroom-help/raw/main/invite1.png)
-
-![img](https://github.com/CL-a11y/classroom-help/raw/main/invite2.png)
-
-![img](https://github.com/CL-a11y/classroom-help/raw/main/invite3.png)
-
-**需要将管理者权限设置为owner**
-
-![img](https://github.com/CL-a11y/classroom-help/raw/main/invite4.png)

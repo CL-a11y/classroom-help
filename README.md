@@ -13,7 +13,7 @@
 
 ## 二、github classroom部署说明
 
-[github classroom部署说明](https://github.com/CL-a11y/classroom-help/raw/main/classroom.md)
+[github classroom部署说明](./classroom.md)
 
 ## 三、说明
 

@@ -23,6 +23,8 @@
 
 自动测试脚本仓库中测试脚本都在main分支下. lab1测试脚本命名为lab1.sh,以此类推
 
+codespace开发环境配置脚本在Makefile中, 执行命令为 make codespaces_setenv
+
 统计分析页面生成,参考[https://github.com/os2edu/classroom-grading-template](https://github.com/os2edu/classroom-grading-template)仓库下的README.md文档.
 
 [在线文档访问入口](https://ucore-x86-classroom-test.github.io/doc_test/)
